@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "352536974823",
+    "project_id": "lifes-esp",
+    "storage_bucket": "lifes-esp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:352536974823:android:b1763ed2356f5948e71942",
+        "android_client_info": {
+          "package_name": "com.example.lifes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "352536974823-207larvmmoj9bett5k7e4in29egc183a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCWMGavZBQ9MdC1Cuzds3nZ69864tqCpM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "352536974823-207larvmmoj9bett5k7e4in29egc183a.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "352536974823-as3bsauekfr73t8kd5icsp4ssqafuoob.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.lifes"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

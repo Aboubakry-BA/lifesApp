@@ -1,0 +1,47 @@
+lib/
+  |- main.dart
+  |- screens/
+  |   |- home/
+  |   |   |- home_screen.dart
+  |   |   |- widgets/
+  |   |       |- home_card.dart
+  |   |       |- home_list.dart
+  |   |       |- home_grid.dart
+  |   |- profile/
+  |       |- profile_screen.dart
+  |       |- widgets/
+  |           |- profile_header.dart
+  |           |- profile_info.dart
+  |- models/
+  |   |- user.dart
+  |   |- post.dart
+  |- services/
+  |   |- auth_service.dart
+  |   |- api_service.dart
+  |- providers/
+  |   |- auth_provider.dart
+  |   |- theme_provider.dart
+  |- widgets/
+  |   |- custom_button.dart
+  |   |- custom_text_field.dart
+  |   |- loading_spinner.dart
+  |- utils/
+  |   |- date_formatter.dart
+  |   |- logger.dart
+  |- constants/
+  |   |- app_constants.dart
+  |- theme/
+      |- app_theme.dart
+      |- light_theme.dart
+      |- dark_theme.dart
+
+
+Le dossier screens contient des fichiers pour chaque écran de l'application.
+Le dossier models contient des fichiers pour les modèles de données utilisés dans l'application.
+Le dossier services contient des fichiers pour les services externes (tels que les services d'authentification et les services d'API).
+Le dossier providers contient des fichiers pour les fournisseurs de données (tels que les fournisseurs d'authentification et les fournisseurs de thème).
+Le dossier widgets contient des fichiers pour les widgets personnalisés utilisés dans l'application.
+Le dossier utils contient des fichiers pour les fonctions utilitaires telles que le formattage de dates et les fonctions de journalisation.
+Le dossier constants contient des fichiers pour les constantes utilisées dans l'application.
+Le dossier theme contient des fichiers pour les thèmes utilisés dans l'application.
+Cette architecture de dossier est extensible et peut être adaptée pour répondre aux besoins spécifiques de chaque projet.
